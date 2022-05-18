@@ -1,2 +1,2 @@
-# kenyon01.github.io-resource
-this is a resource web
+# resource.kenyon01.github.io
+this a resource website
